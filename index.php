@@ -1,3 +1,3 @@
 <?php
 echo "this is a php file";
-i have edit it
+echo "this is a new function";
